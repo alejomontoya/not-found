@@ -38,10 +38,11 @@ body {
     font-size: 48px;
     line-height: 71px;
     letter-spacing: -0.035em;
-    color: var(--black)
+    color: var(--black);
 }
 
 .not-found-info p {
+    max-width: 328px;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
